@@ -5,7 +5,7 @@ import snowflake.connector
 #from streamli.error import URLerror
 
 
-streamlit.title('My Parents New Healthy Dinner')
+streamlit.title('Healthy Dinner')
 
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣 Omega 3 and blueberry Oatmeal')
@@ -13,7 +13,7 @@ streamlit.text('🥗 Smoothie')
 streamlit.text('Juice')
 streamlit.text('🥑🍞Avacado toast')
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
-streamlit.title('My Mom\'s New Healthy Dinner')
+streamlit.title('New Healthy Dinner')
 
 
 
