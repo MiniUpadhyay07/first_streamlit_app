@@ -12,7 +12,7 @@ streamlit.text('🥣 Omega 3 and blueberry Oatmeal')
 streamlit.text('🥗 Smoothie')
 streamlit.text('Juice')
 streamlit.text('🥑🍞Avacado toast')
-streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.text('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 streamlit.title('New Healthy Dinner')
 
 
